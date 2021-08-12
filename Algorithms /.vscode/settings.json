@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "Sieve-Primes/src/GraphTraversal",
+        "Sieve-Primes/src/Recursion"
+    ]
+}
